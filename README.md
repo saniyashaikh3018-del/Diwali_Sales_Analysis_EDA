@@ -1,4 +1,4 @@
-# Exploratory Data Analysis (EDA) – ReadMe
+# Exploratory Data Analysis (EDA) 
 
 📌 Project Overview
 
