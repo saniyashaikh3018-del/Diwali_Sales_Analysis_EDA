@@ -1,4 +1,5 @@
-📊 Exploratory Data Analysis (EDA) – ReadMe
+# Exploratory Data Analysis (EDA) – ReadMe
+
 📌 Project Overview
 
 This project performs Exploratory Data Analysis (EDA) on a dataset to identify patterns, trends, and insights using statistical summaries and visualizations.
